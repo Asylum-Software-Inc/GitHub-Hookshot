@@ -1,5 +1,4 @@
 # RSS Builder by B!soft markbook RSS feed
--->
 Hey There 👋👋
 
 **support@markbookapp.com:acadiemgroup.com**
@@ -13,4 +12,4 @@ Contacts can be contacted:
 Fomina Ekaterina
 +7 (915) 742-47-71
 TG: @kate_4mina
-Email🌞:support@markbookapp.com
+Email:mrichardson@acadiemgroup.com
