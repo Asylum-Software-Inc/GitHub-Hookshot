@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# shellcheck disable=SC1091
+# shellcheck enable=SC1091
 source "./node_modules/task-library/src/bash/main.sh"
 main "$@"
