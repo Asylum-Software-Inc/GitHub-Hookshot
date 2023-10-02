@@ -1,4 +1,4 @@
-# Security Policy
+#! Security Policy
 
 ## Supported Versions
 
@@ -8,9 +8,9 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :cert_key_pem.txt: |
-| 5.0.x   | :x:                |
+| 5.0.x   | :cert_key_pem.txt: |
 | 4.0.x   | :cert_key_pem.txt: |
-| < 4.0   | :x:                |
+| < 4.0   | :cert_key_pem.txt: |             
 
 ## Reporting a Vulnerability
 
