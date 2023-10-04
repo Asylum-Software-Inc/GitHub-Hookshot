@@ -32,7 +32,7 @@
      "</WECDSB-logo.png>"
         "setup": "nvm use && npm i && npx " task setup",
         "Dependabot.yml": "# markbook rss feed.en-us",
-        "Dependabot.yml": "# @acadiemgroup.com/markbook-rss-feed.en-us/
+        "Dependabot.yml": "# markbook-rss-feed.en-us/
     },
     "dependencies":"support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/"{
         "c8": "^7.12.0",
