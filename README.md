@@ -2,7 +2,7 @@
 
 Hey There 👋
 
-((🙋‍♀️ what we do)(A worker, support and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to improve in the direction of equipment testing.Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of tele-communications equipment;))
+((🙋‍♀️ what i do)(A worker, support and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to improve in the direction of equipment testing.Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of tele-communications equipment;))
 
 ((How we do it)(Participate in as support and updating of the network equipment testing plan;update functional tests of network equipment and test scenarios for its application; Carry out load and functions testing of network equipment using Payload and HTTPS; Test graphical and text interface of network equipment.)
  
