@@ -1,13 +1,18 @@
-#! These are supported funding model platforms
+# These are supported funding model platforms
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [kate-susmouski; famina-katrina; Rdmercier-mrichardson]
-patreon: # Replace with a single Patreon username rdmercier
-open_collective: # Replace with a single Open Collective username kate susmouski
-ko_fi: # Replace with a single Ko-fi username laurry-gee
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., octocat/Hello-world
-community_bridge: # Replace with a single Community Bridge project-name e.g., Hookshot-github
-liberapay: # Replace with a single Liberapay username Gregory Lamar
-issuehunt: # Replace with a single IssueHunt username octocat
-otechie: # Replace with a single Otechie username Gregory Lamar
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., Laurry-gee/acadiemgroup.com
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ["http://tdsb.on.ca/; edgeme.sh;tvbsd-logo.png; tdsb-logo.png"]
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [mischa Hildebrand; khoa pham; Károly Lőrentey; shai mishali]
+patreon: # Replace with a single Patreon username [marcin Krzyżanowski]
+open_collective: # Replace with a single Open Collective username [mattew york]
+ko_fi: # Replace with a single Ko-fi username [Dennis weissmann]
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g.[Håvard Fossli]
+community_bridge: # Replace with a single Community Bridge project-name e.g., [chain-marcin Kryżanowski]
+
+liberapay: # Replace with a single Liberapay username [Deusty]
+
+issuehunt: # Replace with a single IssueHunt username [shai mishali]
+
+otechie: # Replace with a single Otechie username libunwind-Hewlett-Packard Dev
+
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g.[David Mosberger-Tang_AGORAIRISTIC_IOS
+
+custom: # Replace with up to 4 custom sponsorship URLs e.g., [<davism@hpl.hp.com>;<web@mischa-hildebrand.de>; <krzyzanowskim.com>;<marcin.krzyżanowski@gmail.com>]
