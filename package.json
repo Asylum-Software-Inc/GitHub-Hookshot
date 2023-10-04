@@ -24,7 +24,7 @@
  "async":"TDSB e-mail address and password/octocat/Hello-World",
         "Single Sign On/TVDSB MarkBook users/octocat-Hookshot/044aadd"
     ],
-    "scripts": {"importScripts('http://static.edgeme.sh/edgemesh-sw.js')"> 
+    "scripts": {"importScripts('http://static.edgeme.sh/edgemesh-sw.js')"
         "cov": "npx task cov",
         "deploy": "npx task deploy",
         "lint": "npx task lint",
@@ -32,7 +32,7 @@
      "</WECDSB-logo.png>"
 
         "Dependabot.yml": "# markbook rss feed.en-us",
-        "Dependabot.yml": "mrichardson.acadiemgroup.com.markbook-rss-feed.en-us/
+        "Dependabot.yml": "magical.kuku.lu markbook-rss-feed.en-us/
     },
     "dependencies":"support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/"{
         "c8": "^7.12.0",
