@@ -30,9 +30,9 @@
         "lint": "npx task lint",
         "pre": "npx task pre",
      "</WECDSB-logo.png>"
-        "setup": "nvm use && npm i && npx,
+
         "Dependabot.yml": "# markbook rss feed.en-us",
-        "Dependabot.yml": "$mrichardson@acadiemgroup.com/markbook-rss-feed.en-us/
+        "Dependabot.yml": "mrichardson.acadiemgroup.com.markbook-rss-feed.en-us/
     },
     "dependencies":"support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/"{
         "c8": "^7.12.0",
