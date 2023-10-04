@@ -32,7 +32,7 @@
      "</WECDSB-logo.png>"
 
         "Dependabot.yml": "# markbook rss feed.en-us",
-        "Dependabot.yml": "magical.kuku.lu markbook-rss-feed.en-us/
+        "Dependabot.yml": "# support@markbookapp.com/markbook-rss-feed.en-us"
     },
     "dependencies":"support@markbookapp.com/rss-feed.en-us/TDSB-logo.webp/"{
         "c8": "^7.12.0",
