@@ -6,9 +6,9 @@ currently being supported with security updates.
 Supported Versions
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | ::                 |
+| 5.1.x   | :cert_domainkey.txt|
 | 5.0.x   | :cert_key_pem.txt: |
-| 4.0.x   | :                  |
+| 4.0.x   | :cert_domainkey.txt|
 | < 4.0   | :cert_key_pem.txt: |             
 
 # Reporting a Vulnerability
